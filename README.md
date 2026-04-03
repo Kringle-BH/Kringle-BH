@@ -6,8 +6,6 @@
   <b>Game Integration Specialist at BisectHosting</b>
 </p>
 
----
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -19,8 +17,6 @@
   <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=cyan" />
 </p>
 
----
-
 <h2 align="center">🛠️ My Setup</h2>
 
 <p align="center">
@@ -29,8 +25,6 @@
   <img src="https://img.shields.io/badge/RAM-32GB-0071C5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA_RTX_3060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
----
 
 <p align="center">
   <a href="https://www.bisecthosting.com/">
