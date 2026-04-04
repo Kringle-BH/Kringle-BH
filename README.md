@@ -6,17 +6,6 @@
   <b>Game Integration Specialist at BisectHosting</b>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=blue" />
-  <img src="https://img.shields.io/badge/WSL-0f172a?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=cyan" />
-</p>
-
 <h2 align="center">🛠️ My Setup</h2>
 
 <p align="center">
